@@ -21,7 +21,7 @@
   <img src="https://telegra.ph//file/48f2017225b8ca3dc3f60.jpg">
 </p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐ❥𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄🍷𝗥𝗢𝗕𝗢𝗧𝄟⃟🥀](https://t.me/THE_VIP_ROBOT)
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐ❥𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄🍷𝗥𝗢𝗕𝗢𝗧𝄟⃟🥀](https://t.me/LIFESTYLE_BOTS)
 ━━━━━━━━━━━━━━━━━━━━
 
 
