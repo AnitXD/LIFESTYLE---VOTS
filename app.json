@@ -1,5 +1,5 @@
 {
-      "name": "𝄟ॐ❥𝗩𝗜𝗣🍷𝗥𝗢𝗕𝗢𝗧⏤͟͟͞❥͜͡𝄟⃟🥀",
+      "name": "𝄟ॐ❥𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄-𝐁𝐎𝐓𝄟⃟🥀",
       "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
       "logo": "https://telegra.ph//file/48f2017225b8ca3dc3f60.jpg",
       "keywords": [
@@ -8,11 +8,11 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/AnitXDLIFESTYLE/BOT
+   "repository": "https://github.com/AnitXDLIFESTYLE/BOT",
 
 
       
-      ",
+",
    "stack": "heroku-22",
    "addons": [
       {
